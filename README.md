@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -76,3 +77,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # calculator-reactjs
 >>>>>>> 765761c638abfcb87f1de87229527aac6bc87b05
+=======
+# calculator-reactjs
+>>>>>>> 3e0247a90c7009d0c2c5d99bd1a52b38b491a6c1
