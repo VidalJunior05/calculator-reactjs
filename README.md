@@ -47,7 +47,7 @@
 
 ```bash 
     #clone the repository
-     $ git clone https://github.com/VidalJunior05/jogo-da-velha2.0--ReactJS.git
+     $ git clone https://github.com/VidalJunior05/calculator-reactjs.git
     
     # Enter directory
     $ cd calculator-reactjs
